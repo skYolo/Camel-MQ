@@ -1,0 +1,268 @@
+2017-11-19 15:36:23,296 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:36:23,303 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:36:23,304 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:36:24,198 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-19 15:36:24,200 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-19 15:36:24,288 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-19 15:36:24,433 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-19 15:36:24,722 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-19 15:36:24,776 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:36:24,777 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-19 15:36:24,779 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.578 seconds
+2017-11-19 15:36:24,828 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 123]
+2017-11-19 15:36:24,831 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-19 15:36:24,832 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:36:24,832 | INFO | CamelTestSupport.java 391 | Took: 0.051 seconds (51 millis)
+2017-11-19 15:36:24,832 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-19 15:36:24,847 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-19 15:36:24,848 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-19 15:36:25,842 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:36:25,845 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-19 15:36:25,873 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.675 seconds
+2017-11-19 15:36:25,873 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.026 seconds
+2017-11-19 15:39:52,753 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:39:52,755 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:39:52,756 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:39:53,478 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-19 15:39:53,479 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-19 15:39:53,563 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-19 15:39:53,712 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-19 15:39:53,954 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-19 15:39:53,968 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:39:53,968 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-19 15:39:53,971 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.491 seconds
+2017-11-19 15:39:54,018 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 123]
+2017-11-19 15:39:54,023 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-19 15:39:54,023 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:39:54,024 | INFO | CamelTestSupport.java 391 | Took: 0.051 seconds (51 millis)
+2017-11-19 15:39:54,024 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-19 15:39:54,032 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-19 15:39:54,032 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-19 15:39:55,031 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:39:55,032 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 1 seconds
+2017-11-19 15:39:55,069 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.592 seconds
+2017-11-19 15:39:55,070 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.037 seconds
+2017-11-19 15:40:47,066 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:40:47,070 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:40:47,070 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:40:55,659 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:40:55,663 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:40:55,663 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:40:56,365 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-19 15:40:56,367 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-19 15:40:56,481 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-19 15:40:56,724 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-19 15:40:57,005 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-19 15:40:57,022 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:40:57,023 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-19 15:40:57,027 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.658 seconds
+2017-11-19 15:41:55,704 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:41:55,712 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:41:55,712 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:41:56,479 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-19 15:41:56,481 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-19 15:41:56,560 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-19 15:41:56,771 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-19 15:41:56,994 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-19 15:41:57,006 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:41:57,008 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-19 15:41:57,011 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.529 seconds
+2017-11-19 15:41:57,062 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 123]
+2017-11-19 15:41:57,065 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-19 15:41:57,065 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:41:57,065 | INFO | CamelTestSupport.java 391 | Took: 0.053 seconds (53 millis)
+2017-11-19 15:41:57,066 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-19 15:41:57,076 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-19 15:41:57,076 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-19 15:41:58,071 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:41:58,073 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-19 15:41:58,107 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.628 seconds
+2017-11-19 15:41:58,107 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.031 seconds
+2017-11-19 15:42:26,853 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:42:26,857 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:42:26,858 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:42:27,504 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-19 15:42:27,505 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-19 15:42:27,575 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-19 15:42:27,741 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-19 15:42:28,003 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-19 15:42:28,019 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:42:28,019 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-19 15:42:28,022 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.515 seconds
+2017-11-19 15:42:28,072 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-19 15:42:28,075 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-19 15:42:28,076 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:42:28,077 | INFO | CamelTestSupport.java 391 | Took: 0.053 seconds (53 millis)
+2017-11-19 15:42:28,077 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-19 15:42:28,090 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-19 15:42:28,091 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-19 15:42:29,083 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:42:29,085 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-19 15:42:29,118 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.614 seconds
+2017-11-19 15:42:29,118 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.028 seconds
+2017-11-19 15:42:50,450 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-19 15:42:50,454 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-19 15:42:50,455 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-19 15:42:51,178 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-19 15:42:51,179 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-19 15:42:51,296 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-19 15:42:51,541 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-19 15:42:51,797 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-19 15:42:51,808 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-19 15:42:51,809 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-19 15:42:51,812 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.632 seconds
+2017-11-20 16:23:46,389 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:23:46,392 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:23:46,393 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:23:47,368 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:23:47,369 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:23:47,461 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:23:47,697 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:23:54,126 | WARN | FailoverTransport.java 1100 | Failed to connect to [tcp://localhost:61616] after: 10 attempt(s) continuing to retry.
+2017-11-20 16:25:00,296 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:25:00,398 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:25:00,398 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:25:00,400 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 1 minute
+2017-11-20 16:25:54,774 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-20 16:25:54,778 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:25:54,778 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:25:54,780 | INFO | CamelTestSupport.java 391 | Took: 54.376 seconds (54376 millis)
+2017-11-20 16:25:54,781 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:25:54,793 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:25:54,794 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:25:55,779 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:25:55,780 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-20 16:25:55,794 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 2 minutes
+2017-11-20 16:25:55,795 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.001 seconds
+2017-11-20 16:26:10,608 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:26:10,616 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:26:10,616 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:26:11,349 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:26:11,350 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:26:11,451 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:26:11,671 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:26:11,933 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:26:11,943 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:26:11,944 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:26:11,947 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.596 seconds
+2017-11-20 16:28:05,663 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 123]
+2017-11-20 16:28:05,667 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:28:05,667 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:28:05,667 | INFO | CamelTestSupport.java 391 | Took: 1 minute (113720 millis)
+2017-11-20 16:28:05,668 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:28:05,677 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:28:05,678 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:28:06,673 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:28:06,673 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-20 16:28:06,690 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1 minute
+2017-11-20 16:28:06,690 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.013 seconds
+2017-11-20 16:28:44,898 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:28:44,901 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:28:44,901 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:28:45,596 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:28:45,597 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:28:45,752 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:28:46,051 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:28:46,357 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:28:46,367 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:28:46,368 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:28:46,371 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.772 seconds
+2017-11-20 16:28:46,416 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-20 16:28:46,421 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:28:46,421 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:28:46,422 | INFO | CamelTestSupport.java 391 | Took: 0.049 seconds (49 millis)
+2017-11-20 16:28:46,422 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:28:46,432 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:28:46,450 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:28:47,429 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:28:47,432 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-20 16:28:47,454 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.858 seconds
+2017-11-20 16:28:47,454 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.022 seconds
+2017-11-20 16:29:40,251 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:29:40,254 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:29:40,255 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:29:40,954 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:29:40,955 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:29:41,060 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:29:41,263 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:29:41,546 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:29:41,556 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:29:41,557 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:29:41,559 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.603 seconds
+2017-11-20 16:29:41,610 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-20 16:29:41,614 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:29:41,614 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:29:41,615 | INFO | CamelTestSupport.java 391 | Took: 0.054 seconds (54 millis)
+2017-11-20 16:29:41,615 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:29:41,628 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:29:41,629 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:29:42,623 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:29:42,627 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-20 16:29:42,644 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.690 seconds
+2017-11-20 16:29:42,644 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.016 seconds
+2017-11-20 16:30:41,024 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:30:41,027 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:30:41,028 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:30:41,795 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:30:41,796 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:30:41,886 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:30:42,032 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:30:42,303 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:30:42,316 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:30:42,319 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:30:42,322 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.525 seconds
+2017-11-20 16:30:42,364 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-20 16:30:42,367 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:30:42,367 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:30:42,368 | INFO | CamelTestSupport.java 391 | Took: 0.045 seconds (45 millis)
+2017-11-20 16:30:42,368 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:30:42,376 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:30:42,377 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:30:43,376 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:30:43,380 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 1 seconds
+2017-11-20 16:30:43,402 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.607 seconds
+2017-11-20 16:30:43,402 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.025 seconds
+2017-11-20 16:31:35,093 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:31:35,099 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:31:35,100 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:31:35,873 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:31:35,874 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:31:35,964 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:31:36,143 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:31:36,424 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:31:36,439 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:31:36,439 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:31:36,442 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.566 seconds
+2017-11-20 16:31:48,865 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-20 16:31:48,869 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:31:48,869 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:31:48,869 | INFO | CamelTestSupport.java 391 | Took: 12.426 seconds (12426 millis)
+2017-11-20 16:31:48,870 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:31:48,881 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:31:48,882 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:31:49,874 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:31:49,874 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2017-11-20 16:31:49,890 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 14.017 seconds
+2017-11-20 16:31:49,890 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.009 seconds
+2017-11-20 16:32:20,746 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2017-11-20 16:32:20,749 | INFO | CamelTestSupport.java 244 | Testing: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:32:20,750 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2017-11-20 16:32:21,410 | INFO | DefaultCamelContext.java 2905 | Apache Camel 2.18.3 (CamelContext: camel-1) is starting
+2017-11-20 16:32:21,411 | INFO | DefaultManagementStrategy.java 238 | JMX is disabled
+2017-11-20 16:32:21,530 | INFO | DefaultTypeConverter.java 56 | Loaded 193 type converters
+2017-11-20 16:32:21,808 | INFO | DefaultCamelContext.java 3152 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2017-11-20 16:32:22,049 | INFO | FailoverTransport.java 1052 | Successfully connected to tcp://localhost:61616
+2017-11-20 16:32:22,061 | INFO | DefaultCamelContext.java 3693 | Route: route1 started and consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:32:22,062 | INFO | DefaultCamelContext.java 2947 | Total 1 routes, of which 1 are started.
+2017-11-20 16:32:22,067 | INFO | DefaultCamelContext.java 2948 | Apache Camel 2.18.3 (CamelContext: camel-1) started in 0.653 seconds
+2017-11-20 16:32:22,112 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, BodyType: String, Body: 456]
+2017-11-20 16:32:22,115 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2017-11-20 16:32:22,115 | INFO | CamelTestSupport.java 390 | Testing done: readMessageFromActiveMQ(com.egaints.activemq.activemqcamel.jms.JmsReadRouteTest)
+2017-11-20 16:32:22,116 | INFO | CamelTestSupport.java 391 | Took: 0.046 seconds (46 millis)
+2017-11-20 16:32:22,116 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2017-11-20 16:32:22,124 | INFO | DefaultCamelContext.java 3173 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutting down
+2017-11-20 16:32:22,131 | INFO | DefaultShutdownStrategy.java 196 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2017-11-20 16:32:23,125 | INFO | DefaultShutdownStrategy.java 669 | Route: route1 shutdown complete, was consuming from: activemq://queue:Camel&ActiveMQ
+2017-11-20 16:32:23,128 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 1 seconds
+2017-11-20 16:32:23,147 | INFO | DefaultCamelContext.java 3262 | Apache Camel 2.18.3 (CamelContext: camel-1) uptime 1.738 seconds
+2017-11-20 16:32:23,148 | INFO | DefaultCamelContext.java 3263 | Apache Camel 2.18.3 (CamelContext: camel-1) is shutdown in 1.023 seconds
